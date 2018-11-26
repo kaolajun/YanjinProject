@@ -15,6 +15,7 @@ import java.util.ResourceBundle;
  * @param args
  */
 class Info{
+	private String root;
 	private String title;
 	private String content; 
 	private boolean flag = true;  
