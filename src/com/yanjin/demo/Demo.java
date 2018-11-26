@@ -15,6 +15,7 @@ import java.util.ResourceBundle;
  * @param args
  */
 class Info{
+	private String hot_fix;
 	private String clone;
 	private String root;
 	private String title;
