@@ -15,7 +15,11 @@ import java.util.ResourceBundle;
  * @param args
  */
 class Info{
+<<<<<<< HEAD
 	private String clone;
+=======
+	private String root;
+>>>>>>> branch 'master' of https://github.com/kaolajun/YanjinProject.git
 	private String title;
 	private String content; 
 	private boolean flag = true;  
